@@ -1,5 +1,5 @@
 // Require the `restricted` middleware from `auth-middleware.js`. You will need it here!
-
+const Auth = require('../auth/auth-middleware')
 
 /**
   [GET] /api/users
